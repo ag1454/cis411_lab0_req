@@ -53,9 +53,9 @@ Using your *Step 4* summary as a guide, start organizing and formulating your re
 Once you've completed your report markdown, have ensured that your forked repository is successfully running in CircleCI, and have committed all your changes to your (primary) main branch, initiate a Pull Request in GitHub to submit your Lab Report.
 1. Navigate to the root of your forked repository (ex. https://github.com/YOURHANDLE/cis411_lab0).
 2. Click the _New pull request_ button.
-3. Choose the base fork _trevordbunch/cis411_lab0_req_ is the target and that your fully updated _main_ branch is the source.
+3. Choose the base fork _trevordbunch/cis411_lab0_req_ **as** the target and that your fully updated _main_ branch is the source.
 4. Enter a title and description for the Pull Request (PR), **referencing at least one other student in the content via their GitHub handle**, and submit the PR.
 
 ## Step 8 - Extra Credit
 1. Provide a diagram that shows the round-trip that the code has made during this lab, starting and ending with source repository.  Document all fork, branch, commit, merge and pull request actions in your diagram.
-2. Find a typo, fix it and submit it in a separate `pull request`.
+2. Find a typo, fix it**,** and submit it in a separate `pull request`.
